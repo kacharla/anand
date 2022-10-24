@@ -11,4 +11,8 @@ ex1 ,ex2,ex3,ex4,ex5,ex6,ex7
 >>>>>>> 7b3d3a7a28d6e0067f6fcc03e2540e8563b45c97
 
 21-10-22 :branch3
+<<<<<<< HEAD
 24-10-22 :main branch
+=======
+24-10-22 :branch5
+>>>>>>> branch5
